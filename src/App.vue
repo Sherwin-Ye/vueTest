@@ -38,12 +38,11 @@ export default {
   text-align: center;
   color: #2c3e50;
 }
-.layout{
+.ivu-layout-header{
   border: 1px solid #fff;
   background: #fff;
   position: relative;
   overflow: hidden;
-  margin: 0 0 24px 0;
 }
 .layout-logo{
   width: 100px;
